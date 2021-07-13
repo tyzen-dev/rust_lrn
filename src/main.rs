@@ -1,7 +1,10 @@
-mod str;
+// mod str;
 // mod testt;
+mod new_struct;
 fn main() {
     // -------Struct-------
-    str::structs();
+    // str::structs();
     // testt::messager();
+    new_struct::testerr();
 }
+ 
